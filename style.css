@@ -1,0 +1,26 @@
+main{
+    height: 400vh;
+    position:relative;
+}
+#vemPraCa{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom:50%;
+    background-color: red;
+    text-decoration: none;
+    color:#fff;
+}
+#vaiPraLa a, #vemPraCa a{
+    color:white;
+    text-decoration: none;
+}
+#vaiPraLa{
+    width: 200px;
+    height: 200px;
+    bottom:0;
+    position: absolute;
+    background-color: blue;
+    text-decoration: none;
+    color:#fff;
+}
